@@ -1,0 +1,2 @@
+# UIPATH-Alfred-Bot
+Alfred – a robot built using UiPath. One of the software robots in the organization is to improve the handling of incoming email with list of excel worksheet attached new onboarding or existing customers details to be update from the Customer Relationship Management (CRM), estimated to be around 10.000 email a year globally.
