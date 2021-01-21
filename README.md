@@ -5,4 +5,4 @@ Alfred – a robot built using UiPath. One of the software robots in the organiz
 
 Here is a process overview of what Alfred will do
 
-![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/overview.jpg)
+![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/Overview.jpg)
