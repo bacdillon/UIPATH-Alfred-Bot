@@ -3,6 +3,10 @@ Alfred – a robot built using UiPath. One of the software robots in the organiz
 
 ![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/alfred-bot.jpg)
 
+# CRM Operations
+Django CRUD Operations with PostgreSQL
+![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/alfred-bot.jpg)
+
 Here is a process overview of what Alfred will do
 
 ![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/Overview.jpg)
