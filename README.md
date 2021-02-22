@@ -13,6 +13,5 @@ Here is a process overview of what Alfred will do
 
 ![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/Overview.jpg)
 
-Alfred in action
-[![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/02.JPG)(https://www.youtube.com/watch?v=wb35de8E2NU)]
+# Alfred in action
 video: https://youtu.be/wb35de8E2NU
